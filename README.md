@@ -1,7 +1,7 @@
 # Description
 Title: Visual-Haptic-Kinesthetic Object Recognition with Multimodal Transformer
-![CRNN-SA](./fig/pic1.pdf)
-![CRNN-CA](./fig/pic2.pdf)
+![CRNN-SA](./fig/pic11.png)
+![CRNN-CA](./fig/pic22.png)
 
 # Requirements
 - python >= 3.7
