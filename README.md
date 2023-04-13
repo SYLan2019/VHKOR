@@ -1,6 +1,8 @@
 # Description
 Title: Visual-Haptic-Kinesthetic Object Recognition with Multimodal Transformer
+- CRNN-SA
 ![CRNN-SA](./fig/pic11.png)
+- CRNN-CA
 ![CRNN-CA](./fig/pic22.png)
 
 # Requirements
