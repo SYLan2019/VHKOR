@@ -41,3 +41,20 @@ python runtest.py --model CA
 ```
 
 # Citing this work
+
+@InProceedings{10.1007/978-3-031-44195-0_20,
+author="Zhou, Xinyuan
+and Lan, Shiyong
+and Wang, Wenwu
+and Li, Xinyang
+and Zhou, Siyuan
+and Yang, Hongyu",
+title="Visual-Haptic-Kinesthetic Object Recognition with Multimodal Transformer",
+booktitle="Artificial Neural Networks and Machine Learning -- ICANN 2023",
+year="2023",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="233--245",
+isbn="978-3-031-44195-0"
+}
+
